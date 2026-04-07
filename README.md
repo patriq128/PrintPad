@@ -25,7 +25,7 @@ pip install pygame requests
 1. Open `printpad.py` and change the IP address to your printer's IP:
 
 ```python
-url = "http://192.168.0.128/printer/gcode/script"
+url = "http://123.123.123.123/printer/gcode/script"
 ```
 
 2. Connect your gamepad, then run:
