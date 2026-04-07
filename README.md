@@ -31,7 +31,7 @@ url = "http://192.168.0.128/printer/gcode/script"
 2. Connect your gamepad, then run:
 
 ```bash
-python printpad.py
+python3 printpad.py
 ```
 
 ---
